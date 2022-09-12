@@ -1,4 +1,4 @@
-Olifanton
+Olifanton 💎
 ---
 
 <p align="center">
