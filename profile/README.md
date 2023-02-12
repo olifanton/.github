@@ -11,7 +11,7 @@ _Olifanton_ is a set of libraries and PHP SDK for working with **The Open Networ
 ## Roadmap
 | Part | Description | Link | Status |
 | ------------- | ------------- | ------------- | ------------- |
-| _utils_ | Interop library for Olifanton project: Working with Addresses, Bytes, Key Pairs and Checksums  | [Link](https://github.com/olifanton/utils)  | ✅ Done |
-| _boc_ | Bag of cells library: BitString and Cell implementation  | [Link](https://github.com/olifanton/boc)  | ✅ Done |
+| _interop_ | Interop library for Olifanton project: Working with Addresses, Bytes, BoC, Key Pairs and Checksums  | [Link](https://github.com/olifanton/interop)  | ✅ Done |
 | _mnemonic_ | Working with Mnemonic (seed) phrases: generation, validation, etc  | [Link](https://github.com/olifanton/mnemonic)  | ✅ Done |
 | _ton_ | PHP TON SDK library  | [Link](https://github.com/olifanton/ton)  | 🚧 Work in progress |
+
