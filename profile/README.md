@@ -48,6 +48,7 @@ For additional information see [`olifanton/ton`](https://github.com/olifanton/to
 ## Planned roadmap
 
 - [ ] `tonlibjson` transport via FFI
+- [ ] Payment channels
 - [ ] SBT
 - [ ] TON Connect 2.0
 - [ ] Additional BoC features
