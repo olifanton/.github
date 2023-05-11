@@ -15,20 +15,20 @@ composer require olifanton/ton
 
 For additional information see [`olifanton/ton`](https://github.com/olifanton/ton) repository.
 
-## SDK components
+## 🛠️ SDK components
 
-- [X] Mnemonics
+- [X] Mnemonics [🔗](https://github.com/olifanton/mnemonic)
   - [X] Generation
   - [X] Validation
-- [X] Address
+- [X] Address [🔗](https://github.com/olifanton/interop#address)
 - [X] BoC
-  - [X] Cell
-  - [X] Slice
-  - [X] Cell builder
-  - [X] Hashmap
+  - [X] Cell [🔗](https://github.com/olifanton/interop#cell)
+  - [X] Slice [🔗](https://github.com/olifanton/interop#slice)
+  - [X] Cell builder [🔗](https://github.com/olifanton/interop#builder)
+  - [X] Hashmap [🔗](https://github.com/olifanton/interop#hashmap)
 - [X] Blockchain transport
   - [X] Message signing
-  - [X] Toncenter client
+  - [X] Toncenter client [🔗](https://github.com/olifanton/ton#toncenter-transport-initialization)
 - [X] DNS client
 - [X] Smart-contracts
   - [X] Wallets
@@ -45,9 +45,13 @@ For additional information see [`olifanton/ton`](https://github.com/olifanton/to
   - [X] Metadata helpers
   - [X] Deployer
 
-## Planned roadmap
+## 🚧 In progress
 
-- [ ] `tonlibjson` transport via FFI
+- [ ] `tonlibjson` transport via FFI [🔗](https://github.com/olifanton/tonlibjson-transport)
+
+## 💡 Planned roadmap
+
+- [ ] On-chain and semi-chain metadata
 - [ ] Payment channels
 - [ ] SBT
 - [ ] TON Connect 2.0
