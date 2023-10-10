@@ -7,6 +7,11 @@ Olifanton 💎
 
 _Olifanton_ is a set of libraries and PHP SDK for working with **The Open Network (_TON_)**
 
+![Based on TON](https://img.shields.io/badge/Based%20on-TON-blue)
+
+---
+[💬 En chat](https://t.me/olifanton_en) | [💬 Ру чат](https://t.me/olifanton_ru)
+
 ## Installation
 
 ```bash
