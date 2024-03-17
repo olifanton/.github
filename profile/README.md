@@ -52,14 +52,14 @@ For additional information see [`olifanton/ton`](https://github.com/olifanton/to
 
 ## 🚧 In progress
 
-- [ ] `tonlibjson` transport via FFI [🔗](https://github.com/olifanton/tonlibjson-transport)
+- [ ] TON Connect 2.0
 
 ## 💡 Planned roadmap
 
+- [ ] `tonlibjson` transport via FFI [🔗](https://github.com/olifanton/tonlibjson-transport)
 - [ ] On-chain and semi-chain metadata
 - [ ] Payment channels
 - [ ] SBT
-- [ ] TON Connect 2.0
 - [ ] Additional BoC features
   - [ ] Tuples
   - [ ] Merkle proofs
