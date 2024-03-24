@@ -46,13 +46,14 @@ For additional information see [`olifanton/ton`](https://github.com/olifanton/to
   - [X] NFT
     - [X] Collection
     - [X] Item
+- [X] TON Connect 2.0
 - [X] Helpers
   - [X] Metadata helpers
   - [X] Deployer
 
 ## 🚧 In progress
 
-- [ ] TON Connect 2.0
+- [ ] tonapi.io client and transport
 
 ## 💡 Planned roadmap
 
