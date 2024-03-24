@@ -8,6 +8,7 @@ Olifanton 💎
 _Olifanton_ is a set of libraries and PHP SDK for working with **The Open Network (_TON_)**
 
 ![Based on TON](https://img.shields.io/badge/Based%20on-TON-blue)
+[![Donation](https://img.shields.io/badge/Donate-Support-%230098ea?style=flat&logo=ton&logoColor=white)](https://github.com/olifanton#donation)
 
 ---
 [💬 En chat](https://t.me/olifanton_en) | [💬 Ру чат](https://t.me/olifanton_ru)
@@ -64,3 +65,13 @@ For additional information see [`olifanton/ton`](https://github.com/olifanton/to
 - [ ] Additional BoC features
   - [ ] Tuples
   - [ ] Merkle proofs
+
+## Donation
+
+### 🍻 Support us with a crypto beer!
+
+Do you like our library? Why not buy us a virtual beer? Your donation helps us keep our code toned and our brains in good spirits. 🚀
+
+- TON: `UQDTxDNbjzOjIsaDrHfbIp_n6m2MOhqyypmPv_C368XwyBcT`
+- Tron: `TRhFnzp3YCTwgmK4pZVUfaY6jNE8D9NgB4`
+- Polygon: `0xE0c291f70E18B6dC89D58822076Aa1B5a5589e76`
